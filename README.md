@@ -8,7 +8,9 @@ brew install graphicsmagick
 
 # Typical install
 
+```
 npm install
+```
 
 # Run 
 
