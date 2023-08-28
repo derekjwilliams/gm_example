@@ -16,4 +16,4 @@ npm install
 node shrink.js
 ```
 
-This will shrink the image pexels-anastasiya-lobanovskaya-1035683.jpg to be a maximum of 240 x 240
+This will shrink the image pexels-anastasiya-lobanovskaya-1035683.jpg to be a maximum of 240 x 240.  Output file name is pexels-anastasiya-lobanovskaya-1035683_240_240.jpg
